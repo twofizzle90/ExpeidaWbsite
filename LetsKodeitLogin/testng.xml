@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SampleSuite">
+ 
+    <test name="SampleTest">
+        <classes>
+           <class name="testcases.HomePageTestCases" />
+        </classes>
+    </test>
+    
+     <test name="same22">
+        <classes>
+           <class name="testcases.HomePageTestCases" />
+        </classes>
+    </test>
+    
+</suite>

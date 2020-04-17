@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/Extendreportjar/jar_files/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/Extendreportjar/jar_files/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/Extendreportjar/jar_files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/Extendreportjar/jar_files/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/Extendreportjar/jar_files/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/Extendreportjar/jar_files/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/Extendreportjar/jar_files/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/libs/TesNGjar/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/libs/TesNGjar/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/libs/JUnit/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/tofazzalhossain90/Seleniumfiles/libs/JUnit/junit-4.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
