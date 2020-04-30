@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class HomePageFactory {
 		WebDriver driver;
-
+//Test
 		@FindBy(id="user_email")
 		WebElement enterid;
 		
